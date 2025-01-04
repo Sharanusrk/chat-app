@@ -14,5 +14,5 @@
 
 # OUTPUT OF THE TASK
 
-
+![bg](https://github.com/user-attachments/assets/05ab1cba-f560-4886-bfae-f2ab726486a4)
 
